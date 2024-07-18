@@ -1,0 +1,3 @@
+http://10.0.0.41 {
+    reverse_proxy localhost:5000
+}
